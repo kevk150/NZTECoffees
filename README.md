@@ -2,7 +2,6 @@
 
 A map of our Auckland CBD coffee spots, with a button that picks one for you.
 
-Everything lives in two files:
 
 - `index.html` is the app. You shouldn't need to touch it.
 - `places.json` is the café list. Edit this one.

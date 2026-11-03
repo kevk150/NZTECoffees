@@ -1,0 +1,98 @@
+[
+  {
+    "id": "zibetto",
+    "name": "Zibetto",
+    "address": "1 Albert Street, Auckland CBD",
+    "lat": -36.84475,
+    "lng": 174.76455,
+    "notes": "Can take a while."
+  },
+  {
+    "id": "dose",
+    "name": "D.O.S.E",
+    "address": "5 High Street, Auckland CBD",
+    "lat": -36.84705,
+    "lng": 174.76705,
+    "notes": "Tryhard."
+  },
+  {
+    "id": "stolen-summer",
+    "name": "Stolen Summer",
+    "address": "18B High Street, Auckland CBD",
+    "lat": -36.84770,
+    "lng": 174.76680,
+    "notes": "Cheapest coffee here. Coffee comes with a mini cookie."
+  },
+  {
+    "id": "kokako",
+    "name": "Kōkako",
+    "address": "Level 1, Commercial Bay, 1 Queen Street, Auckland CBD",
+    "lat": -36.84430,
+    "lng": 174.76610,
+    "notes": "It's close."
+  },
+  {
+    "id": "eos",
+    "name": "EOS Coffee",
+    "address": "Unit 17, 21 Customs Street East, Auckland CBD",
+    "lat": -36.84470,
+    "lng": 174.76750,
+    "notes": "Expensive but tryhard. The guy is a latte art champion."
+  },
+  {
+    "id": "spectra",
+    "name": "Spectra Cafe",
+    "address": "Sky Lobby, Level 7, PwC Tower, 15 Customs Street West, Auckland CBD",
+    "lat": -36.84480,
+    "lng": 174.76540,
+    "notes": "Inside PwC building."
+  },
+  {
+    "id": "receptionist-safehouse",
+    "name": "Receptionist",
+    "address": "95 Queen Street, Auckland CBD",
+    "lat": -36.8461,
+    "lng": 174.7660,
+    "notes": "Super fast service."
+  },
+  {
+    "id": "maeve",
+    "name": "Maeve Coffee Roasters",
+    "address": "16–22 Anzac Avenue, Auckland CBD",
+    "lat": -36.84680,
+    "lng": 174.77100,
+    "notes": "Roaster with a ground-floor café."
+  },
+  {
+    "id": "rumours",
+    "name": "Rumours Coffee",
+    "address": "19 O'Connell Street, Auckland CBD",
+    "lat": -36.84650,
+    "lng": 174.76800,
+    "notes": "Tryhard."
+  },
+  {
+    "id": "bespoke",
+    "name": "BESPOKE",
+    "address": "72 Albert Street, Auckland CBD",
+    "lat": -36.84880,
+    "lng": 174.76270,
+    "notes": "Small coffee specialist between Victoria and Wyndham Streets."
+  },
+  {
+    "id": "kompass",
+    "name": "Kompass Coffee",
+    "address": "2 Kitchener Street, Auckland CBD",
+    "lat": -36.85020,
+    "lng": 174.76780,
+    "notes": "By Albert Park, opposite the Art Gallery. Good matcha too."
+  },
+  {
+    "id": "remedy",
+    "name": "Remedy Coffee",
+    "address": "1 Wellesley Street West, Auckland CBD",
+    "lat": -36.85130,
+    "lng": 174.76380,
+    "notes": "Recommended by Rhody - haven't tried."
+  }
+]
